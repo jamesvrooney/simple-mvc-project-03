@@ -8,6 +8,6 @@ public class Person {
 	private String name;
 	
 	public void speak()  {
-		System.out.println("My name is James!");
+		System.out.println("My name is James Rooney!");
 	}
 }
